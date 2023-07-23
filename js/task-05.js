@@ -8,5 +8,3 @@ const inputValue = (evt) => {
 }
 
 input.addEventListener('input', inputValue)
-
-console.log(output.innerHTML);
